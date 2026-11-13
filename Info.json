@@ -1,0 +1,9 @@
+{
+  "Id": "SolastaZoomMod",
+  "DisplayName": "Solasta Zoom Mod",
+  "Author": "Coiin-Op",
+  "Version": "1.0.5",
+  "ManagerVersion": "0.25.0",
+  "GameVersion": "1.5.97",
+  "EntryMethod": "SolastaZoomMod.Main.Load"
+}
